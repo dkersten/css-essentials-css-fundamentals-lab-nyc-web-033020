@@ -16,3 +16,11 @@ img {
 a {
   text-align: center;
 }
+
+nav a {
+  padding: 0 10px;
+  background: grey;
+}
+
+
+
